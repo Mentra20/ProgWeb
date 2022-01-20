@@ -6,7 +6,6 @@ function DoSearch(){
 
     const songList = document.getElementById("song-list");
     const searchField = document.getElementById("search-field");
-    console.log(searchField);
 
     songList.innerHTML = "";
 
