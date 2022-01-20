@@ -1,0 +1,12 @@
+{
+  "type": "module",
+
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
